@@ -13,8 +13,8 @@ class bst
 private:
 
 public:
-    
-}
+
+};
 
 int main()
 {
